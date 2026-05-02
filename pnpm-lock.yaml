@@ -9,16 +9,16 @@ importers:
   .:
     devDependencies:
       typescript:
-        specifier: 4.1.0-dev.20200804
-        version: 4.1.0-dev.20200804
+        specifier: 6.0.3
+        version: 6.0.3
 
 packages:
 
-  typescript@4.1.0-dev.20200804:
-    resolution: {integrity: sha512-jbvJc9pFunwJz7u0JMjorH8AI+Me+gBVZUSKDPTBFWP4rVvQHCg1pJBQ9znGsOFzsxK+vexJKOXXbSWinw8ZQg==}
-    engines: {node: '>=4.2.0'}
+  typescript@6.0.3:
+    resolution: {integrity: sha512-y2TvuxSZPDyQakkFRPZHKFm+KKVqIisdg9/CZwm9ftvKXLP8NRWj38/ODjNbr43SsoXqNuAisEf1GdCxqWcdBw==}
+    engines: {node: '>=14.17'}
     hasBin: true
 
 snapshots:
 
-  typescript@4.1.0-dev.20200804: {}
+  typescript@6.0.3: {}
